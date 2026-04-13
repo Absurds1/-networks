@@ -209,13 +209,13 @@ microsoft.com.          720     IN      A       13.107.226.44
 
 debian
 
-![2.1](/home/arhey/networks/images/2.1)
+![2.1](images/2.1)
 
-![2.2](/home/arhey/networks/images/2.2)
+![2.2](images/2.2)
 
-![2.4](/home/arhey/networks/images/2.4)
+![2.4](images/2.4)
 
-![2.3](/home/arhey/networks/images/2.3)
+![2.3](images/2.3)
 
 -----------------------------
 #3
@@ -291,8 +291,8 @@ rtt min/avg/max/mdev = 0.018/0.024/0.028/0.003 ms
 
 debian
 
-![3](/home/arhey/networks/images/3)
+![3](images/3)
 
-![3.1](/home/arhey/networks/images/3.1)
+![3.1](images/3.1)
 
 -------------------------------------------
